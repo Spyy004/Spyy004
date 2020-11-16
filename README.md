@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hello,Hey,Namaste :smile:
+## Ayush Pawar here.
+#### IIITG/Flutter Developer/E-Cell Event Management Head.
+## Projects.:computer:
+* [Algo Visualizer](https://github.com/Spyy004/algo_visual)
+* [Bitcoin Converter](https://github.com/Spyy004/bitcoin-converter)
+* [FPL Predictor](https://github.com/Spyy004/fpl_predictor_)
 
-<!--
-**Spyy004/Spyy004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect :+1:
+* [LinkedIn](https://www.linkedin.com/in/ayush-pawar-847209191/)
+* [Twitter](https://twitter.com/Iyush004)
