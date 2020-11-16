@@ -1,6 +1,7 @@
 # Hello,Hey,Namaste :smile:
 ## Ayush Pawar here.
 #### IIITG/Flutter Developer/E-Cell Event Management Head.
+##### Currently pursuing B.Tech CSE from IIIT Guwahati. Passionate, Dedicated and a Team Player. Love to make apps and test my skills on Flutter. Apart from the geeky stuff, I love to watch Football, Cricket and also play these sports!
 ## Projects.:computer:
 * [Algo Visualizer](https://github.com/Spyy004/algo_visual)
 * [Bitcoin Converter](https://github.com/Spyy004/bitcoin-converter)
