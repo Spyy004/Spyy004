@@ -2,6 +2,11 @@
 ## Ayush Pawar here.
 #### IIITG/Flutter Developer/E-Cell Event Management Head.
 ##### Currently pursuing B.Tech CSE from IIIT Guwahati. Passionate, Dedicated and a Team Player. Love to make apps and test my skills on Flutter. Apart from the geeky stuff, I love to watch Football, Cricket and also play these sports!
+## Experience
+* DSA Contributor @ DevIncept. (Nov 2020-Dec 2020)
+* Event Management Head @ E-Cell IIIT Guwahati (August 2020-August 2021)
+* Event-Management Team Member @ E-Cell IIIT Guwahati (Aug 2019- August 2020)
+* Techincal Content Writer @ The Indian Wire (Sep 2020-Oct 2020)
 ## Projects.:computer:
 * [Algo Visualizer](https://github.com/Spyy004/algo_visual)
 #### Created a basic algorithm visualizer app using Flutter. This app is compatible with iOS, Android, and web. This is an ongoing project as I keep on adding new algorithms. In this app you can visualize 3 sorting and 2 searching algorithms.
