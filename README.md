@@ -1,7 +1,7 @@
 # Hello,Hey,Namaste :smile:
-## Ayush Pawar here.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Spyy004&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyy004&theme=blue-green)
+## Ayush Pawar here.
 #### IIITG/Flutter Developer/E-Cell Event Management Head.
 ##### Currently pursuing B.Tech CSE from IIIT Guwahati. Passionate, Dedicated and a Team Player. Love to make apps and test my skills on Flutter. Apart from the geeky stuff, I love to watch Football, Cricket and also play these sports!
 ## Experience
