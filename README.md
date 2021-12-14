@@ -7,12 +7,12 @@
 * DSA Contributor @ DevIncept. (Nov 2020-Dec 2020)
 * Event Management Head @ E-Cell IIIT Guwahati (August 2020-August 2021)
 ## Projects.:computer:
-* [Algo Visualizer](https://github.com/Spyy004/algo_visual)
-#### Created a basic algorithm visualizer app using Flutter. This app is compatible with iOS, Android, and web. This is an ongoing project as I keep on adding new algorithms. In this app you can visualize 3 sorting and 2 searching algorithms.
-* [Bitcoin Converter](https://github.com/Spyy004/bitcoin-converter)
-#### A basic Bitcoin converter app/ website which converts one bitcoin currency to another by fetching data from the Bitcoin API. 
-* [FPL Predictor](https://github.com/Spyy004/fpl_predictor_)
-#### This is a Fantasy Premier League helper. This app/website is built on Flutter. This app fetches data from the official FPL API. It calculates and sorts different statistics to give you the best playing 11 for a particular game-week(with the formation and total cost of the squad). It also lets you search every player and gives you the total points earned by the player.
+* [Digi-Q](https://github.com/Spyy004/hackthebronxdigiqMobile)
+#### digiQ is an android mobile app + web app that makes queue management super easy.I worked on the Mobile App. Integrated Twilio Services and integrated few API's and worked on the UI of multiple pages
+* [Budget AI](https://github.com/Spyy004/budgetAI)
+#### Budget.ai is a mobile application that helps you manage your finances in a better way. It has features like Expenses Diary, Expense Forecast, Visualizing your past Expenses, getting Budget.ai Credit Score, etc.
+* [Meet Me Where](https://github.com/Spyy004/MeetmeWhere)
+#### Meet Me Where is an app which helps you to decide the best hang out places with your friends. The suggestions made by Meet Me Where is "Time and cost efficient" for everyone in the group
 
 ## Let's Connect :+1:
 * [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ayush-pawar-847209191/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Iyush004)
