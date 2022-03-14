@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **System Design, NodeJS**
 
-- ✍🏻 I’m share my learnings on [CSwithIyush](https://cswithiyush.hashnode.dev/)
+- ✍🏻 I share my learnings on [CSwithIyush](https://cswithiyush.hashnode.dev/)
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-302bb.web.app/#/](https://myportfolio-302bb.web.app/#/)
 
