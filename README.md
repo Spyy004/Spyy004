@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently studying at **IIIT Guwahati**
 
-- 🌱 I’m currently learning **System Design, NodeJS**
+- 🌱 I’m currently learning **System Design, Flutter**
 
 - ✍🏻 I share my learnings on [CSwithIyush](https://cswithiyush.hashnode.dev/)
-
-- 👨‍💻 All of my projects are available at [https://myportfolio-302bb.web.app/#/](https://myportfolio-302bb.web.app/#/)
 
 - 📝 My area of interests are [Virtual Reality, DevOps, Flutter](Virtual Reality, DevOps, Flutter)
 
