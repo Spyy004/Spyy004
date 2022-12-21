@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pawar</h1>
-<h3 align="center">A developer by mind and a creator by heart. Flutter Dev & CS Undergrad at IIITG</h3>
+<h3 align="center">A developer by mind and a creator by heart. SDE Intern @BonitoDesigns, Flutter Dev, Technical Writer, & CS Undergrad at IIITG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyy004&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
 
