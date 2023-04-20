@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pawar</h1>
-<h3 align="center">A developer by mind and a creator by heart. SDE Intern @BonitoDesigns, Flutter Dev, Technical Writer, & CS Undergrad at IIITG</h3>
+<h3 align="center">A developer by mind and a creator by heart. SDE Intern @Edfora, Mobile Dev, Technical Writer, & CS Undergrad at IIITG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyy004&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently studying at **IIIT Guwahati**
 
-- 🌱 I’m currently learning **System Design, Flutter**
+- 🌱 I’m currently learning **System Design**
 
 - ✍🏻 I share my learnings on [CSwithIyush](https://cswithiyush.hashnode.dev/)
 
 - 📝 My area of interests are [Virtual Reality, DevOps, Flutter](Virtual Reality, DevOps, Flutter)
 
-- 💬 Ask me about **Flutter, C++, Dart**
+- 💬 Ask me about **Flutter, C++, Dart, React-Native**
 
 - 📫 How to reach me **i.yush.004@gmail.com**
 
