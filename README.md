@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iyush004" target="blank"><img src="https://img.shields.io/twitter/follow/iyush004?logo=twitter&style=for-the-badge" alt="iyush004" /></a> </p>
 
-- 🔭 Currently a Mobile Dev @Edfora*
+- 🔭 Currently a SDE @Edfora*
 
 - 🌱 I’m currently learning **Swift**
 
