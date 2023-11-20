@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **i.yush.004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JWI4EKWeBpBC-MNJUnnK0L9RBFtPxUeS/view?usp=sharing](https://drive.google.com/file/d/1DMKkx6R7N5QylCB-hi3phfsS0W3dtpv3/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JWI4EKWeBpBC-MNJUnnK0L9RBFtPxUeS/view?usp=sharing](https://drive.google.com/file/d/1DMKkx6R7N5QylCB-hi3phfsS0W3dtpv3/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
